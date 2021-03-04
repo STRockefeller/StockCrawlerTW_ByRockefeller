@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\bin\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.deps.json
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\bin\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.runtimeconfig.json
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\bin\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.runtimeconfig.dev.json
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\bin\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.dll
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\bin\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.pdb
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\obj\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\obj\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.AssemblyInfo.cs
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\obj\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\obj\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.dll
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\obj\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.pdb
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\obj\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.genruntimeconfig.cache
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\obj\Debug\netcoreapp3.1\StockCrawlerTW_ByRockefeller.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\StockCrawlerTW_ByRockefeller\StockCrawlerTW_ByRockefeller\bin\Debug\netcoreapp3.1\myStock.db
